@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "codingfromspace",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Static site for codingfrom.space built with Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Anton Domratchev <freeman.ad@gmail.com>",
   "dependencies": {
     "gatsby": "^2.13.4",
     "gatsby-image": "^2.2.4",
